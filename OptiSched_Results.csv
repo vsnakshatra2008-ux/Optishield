@@ -1,0 +1,9 @@
+Algorithm,SJF
+Task ID,Task Name,Duration,Priority,Deadline
+1,dfad,3,3,23
+2,fddfgv,6,5,45
+
+Performance Metrics
+Makespan,9.0
+Average Waiting Time,1.5
+Late Tasks,0
